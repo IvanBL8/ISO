@@ -4,7 +4,7 @@ conserven ruinas de ellos, se reducen a los siguientes:
 
 La ermita de Santa María, situada en la localidad burgalesa de Quintanilla de las
 Viñas.
-![Obras](img/Obras.jpg)
+![Obras](img/Obras.png)
 
 La iglesia de San Juan, en Baños de Cerrato (Palencia) de tipo basilical latino.
 
