@@ -7,8 +7,8 @@ Se estableció un tratado en el cual se disponía que los visigodos se asentaran
 
 ## Índice
 1. [Epoca](Epoca.md)
-2. Arquitectura
-3. Obras más significativas
+2. [Arquitectura](Arquitectura.md)
+3. [Obras mas significativas](Obras.md)
 ## Referencia
 [National Geographic España](https://www.nationalgeographic.com.es/)
 
